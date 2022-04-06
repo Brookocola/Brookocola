@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brookocola)
 
-![](https://github-readme-stats.vercel.app/api?username=Brookocola)
-<!--START_SECTION:waka-->
+![](https://github-readme-stats.vercel.app/api?username=Brookocola)  
+
+
